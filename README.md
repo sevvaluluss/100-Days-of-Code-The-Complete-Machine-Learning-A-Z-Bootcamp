@@ -1,1 +1,19 @@
-In 100 days, I mastered Python by building 100 diverse projects, covering automation, game, app, and web development, as well as data science and machine learning. Proficient in Selenium, Beautiful Soup, Flask, Pandas, NumPy, Scikit Learn, and more, I created a robust portfolio for developer job applications. My skills extend to building fully-fledged websites, web apps, and classic games like Blackjack and Snake. Additionally, I developed expertise in GUIs and desktop applications with Python. I successfully applied Python to data science, utilizing Pandas and NumPy for efficient data manipulation and Scikit Learn for machine learning. Ready to contribute professionally, my journey has equipped me to tackle real-world challenges in software development, data science, and machine learning.
+Regression covering data science and machine learning in 100 days:
+
+Simple Linear Regression, Multiple Linear Regression, Polynomial Regression, SVR, Decision Tree Regression, Random Forest Regression
+
+Classification: Logistic Regression, K-NN, SVM, Kernel SVM, Naive Bayes, Decision Tree Classification, Random Forest Classification
+
+Clustering: K-Means, Hierarchical Clustering
+
+Association Rule Learning: Apriori, Eclat
+
+Reinforcement Learning: Upper Confidence Bound, Thompson Sampling
+
+Natural Language Processing: Bag-of-words model and algorithms for NLP
+
+ Deep Learning: Artificial Neural Networks, Convolutional Neural Networks
+
+Dimensionality Reduction: PCA, LDA, Kernel PCA
+
+I have created a portfolio on Model Selection & Boosting: k-fold Cross Validation, Parameter Tuning, Grid Search, XGBoostSelenium, Beautiful Soup, Flask, Pandas, NumPy, Scikit Learn and many more. It is among my goals to prove my skills in the field of machine learning and artificial intelligence. You can access the source files
